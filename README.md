@@ -10,17 +10,10 @@ Table of contents
 - [Author](#author)
 
 OVERVIEW
-SCREENSHOT![Screenshot (134)](https://user-images.githubusercontent.com/94693297/169710154-5c59ee45-e6ef-48bf-a188-0899ee92bc4c.png)
 
 
-LINKS
-Solution URL:Github
-Live Site URL: Github pages
+SCREENSHOT!
 
-Built with
-HTML
-Css
+[Screenshot (134)](https://user-images.githubusercontent.com/94693297/169710154-5c59ee45-e6ef-48bf-a188-0899ee92bc4c.png)
 
-Author
-Github:Mhizdhee
-Frontend Mentor:@mhizdhee
+
