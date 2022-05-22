@@ -15,19 +15,3 @@ OVERVIEW
 SCREENSHOT![Screenshot (134)](https://user-images.githubusercontent.com/94693297/169710154-5c59ee45-e6ef-48bf-a188-0899ee92bc4c.png)
 
 
-LINKS
-
-Solution URL:Github
-
-Live Site URL: Github pages
-
-Built with
-
-HTML
-Css
-
-Author
-
-Github:Mhizdhee
-
-Frontend Mentor:@mhizdhee
